@@ -826,3 +826,7 @@ The project is functional and demonstrates core Python data-analysis concepts. I
 This project is created for **learning and educational purposes**.
 
 You are free to use and modify the project for learning, practice, and personal projects.
+
+# 👨‍💻 Author
+
+**Nirpalsinh Solanki**
